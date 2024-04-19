@@ -146,7 +146,7 @@ Overall, the analysis provides valuable insights into historical performance, te
 - Data Refinement: Gather more comprehensive and diverse datasets related to aviation incidents, including historical crash data, weather patterns, aircraft performance metrics, pilot records, and air traffic data.
 - Feature Engineering: Invest efforts into feature engineering to extract meaningful features from raw data. Explore advanced techniques such as dimensionality reduction, time-series analysis, and anomaly detection to uncover hidden patterns and insights.
 
-*For further details and insights, refer to the detailed analysis in the Jupyter Notebook called project1-FlightFatalitiesPy.ipynb, a ppt with a highlight of this work is also included in output_data called Project1-Group5.pptx.*
+*For further details and insights, refer to the detailed analysis in the Jupyter Notebook called project1-FlightFatalitiesPy.ipynb, a ppt with a highlight of this work is also included in output_data called Project1-Group5.pptx. A brief writeup on this project is also provided as a word document called Maero Project1_Aircraft Crashes Report.docx in the project's root directory.*
 
 --- 
 
