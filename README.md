@@ -4,7 +4,8 @@
 
 # Project Title: Aircraft Crashes Analysis
 
-![planecrash](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/ca3a6631-852f-49a5-9120-4dd5c8408608)
+![planecrash](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/19b708d1-ff86-43a4-84b4-1fa18987cc9e)
+
 
 
 ## Team Members:
@@ -43,22 +44,28 @@ Both datasets are stored in the `output_data` directory as flight_data.csv and w
 ## Outputs from Exploratory Data Analysis
 
 Crashes vs Year
-![1_histogram_Distribution_of_Yrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/d52f90f2-e298-4d8d-8528-0e04808a68d5)
+![1_histogram_Distribution_of_Yrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/524c7a83-f76d-44bb-bf96-1794a335155d)
+
 
 Flights vs Year
-![2_LineAndFill_FlightsOverTheYrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/66488326-9761-4449-b247-85776afedaa7)
+![2_LineAndFill_FlightsOverTheYrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/8568a729-2eef-4e20-b89f-4e72ea4667ad)
+
 
 Operators vs Year
-![3_LineAndFill_OperatorsOverTheYrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/fa49750d-e824-4da7-a5f4-bcd38a794feb)
+![3_LineAndFill_OperatorsOverTheYrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/46d18d27-c7dd-46b1-bb28-85c92e526b99)
+
 
 Fatalities vs Year
-![4_LineAndFill_FatalitiesOverTheYrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/77ba7ca0-11d0-4ff6-8201-a3fb5e15356d)
+![4_LineAndFill_FatalitiesOverTheYrs](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/d6536f66-309c-4c21-a845-3bc6397674f4)
+
 
 Distribution of Fatalities
-![5_Box_Dist_of_Fatalities_in_AirCrashes](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/ba222604-136b-4f93-92f2-1c34fd669fad)
+![5_Box_Dist_of_Fatalities_in_AirCrashes](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/ec54a822-4ba9-4769-aeed-79e29ee02f17)
+
 
 Survivors vs Year
-![6_LineandFill_SurvivorsOvertheYears](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/472e1351-ab65-4cae-90e9-cd659273825d)
+![6_LineandFill_SurvivorsOvertheYears](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/37bb9e96-d746-4e85-955b-afc93bc5ca16)
+
 
 
 
@@ -66,11 +73,13 @@ Survivors vs Year
 ### 1. Aircraft Types and Operators Associated with the Highest Number of Fatalities:
    - Fatalities in top 20 Aircrafts
 
-![7_hbar_FatalitiesInTop20Aircrafts](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/38ba4bcc-75d0-447a-9c1f-53b11ab395be)
+![7_hbar_FatalitiesInTop20Aircrafts](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/0fa493a7-258f-428b-8dcb-3734ce742ff1)
+
     
    - Fatalities in top 20 Operators
 
-![8_hbar_FatalitiesInTop20Operators](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/742cc245-6552-40cf-969e-9d1b33db81cd)
+![8_hbar_FatalitiesInTop20Operators](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/0ade4ee8-8a60-4135-98fc-3faa787df242)
+
 
    - Analysis revealed certain aircraft types and operators consistently associated with the highest number of fatalities. The Douglas DC-3 emerged as the aircraft with the highest fatalities, and Aeroflot, the national airline of Russia, topped the list among operators.
 
@@ -79,36 +88,40 @@ Survivors vs Year
 ### 2. When and Where Aviation Crashes Occur:
    - Crashes Over the Years
 
-![9_Line_CrashesOvertheYears](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/4159ce14-b141-416c-8bb5-415d143c712b)
+![9_Line_CrashesOvertheYears](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/0c72b4ec-4168-4e79-a558-be5ca049e209)
+
 
    - Fatalities by Month
 
-![10_hbar_Fatalities_by_Month](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/0f6fc14b-79e2-47b9-b3fb-b8d1afa9df6f)
+![10_hbar_Fatalities_by_Month](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/e32c300f-49c1-4ea0-9ea6-5592f5fcec9c)
 
 
    - Crashes by Decade
 
-![11_bar_Crashes_per_Decade](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/41eaa8b6-e432-4972-8d5e-0585cc5b797e)
+![11_bar_Crashes_per_Decade](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/542b91a4-cfd2-426b-af03-af4ff5ea4720)
+
 
    - Geographical Location of Crashes
 
-![crashmap](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/3b3ef49b-65d8-4ddb-9262-6ad461b86379)
+![crashmap](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/119c0292-a8f2-43b6-a4af-29184f821340)
 
 
    - Top 10 Routes and Fatalities
 
-![13_pie_Top_10_Routes_and_Fatalities](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/71eb1f0b-8c78-4bec-8317-94a7b3d69802)
+![13_pie_Top_10_Routes_and_Fatalities](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/926a7ac3-8855-46bd-878a-f886b0512c10)
 
    - Crashes were more frequent during certain months, with December, September, and August experiencing the highest number of incidents. The United States emerged as the country with the highest number of flight crashes, followed by the Philippines, Colombia, and Russia. Specific routes were associated with a disproportionately high number of fatalities.
 
 ### 3. Correlation Between Passenger Numbers and Fatalities:
    - Comparision of Passengers Aboard vs Fatalities
 
-![14_Line_Aboard_vs_Fatalities](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/32ab7c3b-790d-4a0e-9517-fd123ef98187)
+![14_Line_Aboard_vs_Fatalities](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/37cbb656-6696-4032-96a3-d4cfc0f58525)
+
 
    - Relationship between Passenges Aboard & Fatalities
 
-![15_fatalities_vs_aboard_regression](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/22762036-d310-4dab-99dc-3e1d3e3dec67)
+![15_fatalities_vs_aboard_regression](https://github.com/onemanlutta/AircraftCrashesPy/assets/118937365/7bb066cb-c6e9-4e69-97ab-fad602d9acc2)
+
 
 
    - A moderate positive correlation was observed between the number of passengers on board an aircraft and the resulting fatalities from aviation crashes. This underscores the importance of passenger safety measures and emergency response protocols.
